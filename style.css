@@ -1,0 +1,73 @@
+/*
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Lato', sans-serif;
+*/
+
+.container-fluid {
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 4rem;
+}
+
+h3 {
+    color: #00af91;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 3.4rem;
+}
+
+.header_box {
+    padding: 10rem;
+    background-image: url("images/home_header.jpg");
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+}
+
+.description_box {
+    margin: 3rem;
+}
+
+.description_details {
+    padding-top: 10%;
+}
+
+.destination-box {
+    margin: 0;
+    background-color: #f7f7f7;
+}
+
+.destination_box_text {
+    padding: 5%
+}
+
+.destination_box_image {
+    padding: 2%;
+}
+
+.img-thumbnail {
+    width: 70%;
+    border: 0;
+}
+
+.line {
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 0.2rem solid #3f3f44;
+}
+
+.form_header_box {
+    padding: 3% 3% 2% 3%;
+}
+
+.form_box {
+    margin: 3%
+}
